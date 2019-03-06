@@ -1,8 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:mysql://pin.8maifang.com:50001/springjooq?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&allowPublicKeyRetrieval=true&verifyServerCertificate=false&useSSL=false
-    username: nebel
-    password: 1014Mysql!
-    driverClassName: com.mysql.cj.jdbc.Driver
-server:
-  port: 8080
