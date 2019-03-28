@@ -5,4 +5,6 @@ springboot with jooq,flyway,lombok and mapstruct practices
 
 
 # run 
+```
 mvn clean compile
+```
